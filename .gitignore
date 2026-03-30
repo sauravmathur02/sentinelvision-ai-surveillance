@@ -25,6 +25,7 @@ datasets/
 frames/
 gun_dataset/
 merged_dataset/
+assets/combined_yolo_dataset/
 
 # Training / inference outputs
 outputs/
